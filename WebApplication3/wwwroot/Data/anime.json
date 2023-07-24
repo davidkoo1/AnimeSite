@@ -1,0 +1,76 @@
+[
+  {
+    "Id": 1,
+    "Title": "Steins;gate",
+    "Description": "\u041D\u0430\u0434\u043E \u0431\u0443\u0434\u0435\u0442 \u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C, \u0430 \u0442\u043E \u043D\u0430\u0447\u0430\u043B \u0438 \u0442\u0430\u043A \u043D\u0435 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B",
+    "img": "https://i.imgur.com/OVOFYqv.jpg",
+    "urlVideo": "https://www.youtube.com/embed/bzqDDsPHPoM?controls=0",
+    "Ratings": [
+      5
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": "\u0411\u0430\u0441\u043A\u0435\u0442\u0431\u043E\u043B \u041A\u0443\u0440\u043E\u043A\u0443",
+    "Description": "Description in english, show well",
+    "img": "https://i.pinimg.com/originals/7e/0a/98/7e0a98a4dc980d8c12d8ead7b849f1db.png",
+    "urlVideo": "https://www.youtube.com/embed/b9r7SNeaIx4?controls=0",
+    "Ratings": [
+      2,
+      5
+    ]
+  },
+  {
+    "Id": 3,
+    "Title": "\u0410\u0442\u0430\u043A\u0430 \u0442\u0438\u0442\u0430\u043D\u043E\u0432",
+    "Description": "\u041A\u043E\u043D\u0446\u043E\u0432\u043A\u0430 \u0441\u043B\u0438\u0442\u0430\u044F \u043A\u0430\u043A \u043F\u043E \u043C\u043D\u0435",
+    "img": "https://upload.wikimedia.org/wikipedia/ru/d/d2/Shingeki_no_Kyojin.jpg",
+    "urlVideo": "https://www.youtube.com/embed/UpTtnWsvw50?controls=0",
+    "Ratings": [
+      2
+    ]
+  },
+  {
+    "Id": 4,
+    "Title": "\u0422\u0432\u043E\u044F \u0430\u043F\u0440\u0435\u043B\u044C\u0441\u043A\u0430\u044F \u043B\u043E\u0436\u044C",
+    "Description": "\u041D\u0435 \u0441\u043C\u043E\u0442\u0440\u0435\u043B, \u043D\u043E \u0445\u043E\u0447\u0443 \u0433\u043B\u044F\u043D\u0443\u0442\u044C(\u043A\u0430\u043A \u0437\u0430\u043A\u043D\u0447\u0443 \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440 \u044D\u0442\u043E\u0442 \u043F\u0440\u043E\u0435\u043A\u0442)",
+    "img": "https://upload.wikimedia.org/wikipedia/ru/2/23/Shigatsu_wa_Kimi_no_Uso_manga_cover.png",
+    "urlVideo": "https://www.youtube.com/embed/9rpsZuHLU60?controls=0",
+    "Ratings": [
+      1,
+      5
+    ]
+  },
+  {
+    "Id": 5,
+    "Title": "\u0412\u0410\u041D\u041F\u0410\u041D\u0427\u041C\u0415\u041D",
+    "Description": "This Anime About very strong human",
+    "img": "https://www.mirf.ru/wp-content/uploads/2016/09/Poster.jpg",
+    "urlVideo": "https://www.youtube.com/embed/i5RJhZUABXk?controls=0",
+    "Ratings": [
+      5
+    ]
+  },
+  {
+    "Id": 6,
+    "Title": "ERASED",
+    "Description": "\u0412\u043E\u043E\u0431\u0449\u0435 \u043D\u0435 \u0437\u043D\u0430\u043B \u043F\u0440\u043E \u044D\u0442\u043E \u0430\u043D\u0438\u043C\u0435",
+    "img": "https://upload.wikimedia.org/wikipedia/it/0/06/Erased_manga.jpg",
+    "urlVideo": "https://www.youtube.com/embed/rYXzDWUwQEQ?controls=0",
+    "Ratings": [
+      3
+    ]
+  },
+  {
+    "Id": 7,
+    "Title": "Naruto",
+    "Description": "This Anime About strong human",
+    "img": "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+    "urlVideo": "https://www.youtube.com/embed/rYXzDWUwQEQ?controls=0",
+    "Ratings": [
+      5,
+      3,
+      3
+    ]
+  }
+]

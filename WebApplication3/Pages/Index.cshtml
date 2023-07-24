@@ -1,0 +1,41 @@
+﻿@page
+@using WebApplication3.Components
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<!--
+<div class="card-columns">
+    foreach (var product in Model.Products)
+    {
+        <div class="card">
+            <div class="card-img" style="background-image: url('product.Image');">
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">product.Title</h5>
+            </div>
+        </div>
+    }
+</div>
+-->
+@(await Html.RenderComponentAsync<AnimeList>(RenderMode.ServerPrerendered))
+
+<script src="_framework/blazor.server.js"></script>
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+
+
+
+
+
+
+
+
+
